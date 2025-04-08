@@ -1,0 +1,262 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 344px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 174px;
+  margin: 122px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 252px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 165px;
+    margin-top: 37px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -23px;
+    margin-bottom: 27px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 249px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -34px;
+    margin-bottom: 37px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 605px;
+}
+
+.u-section-2 .u-list-1 {
+  margin-top: 54px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-auto-columns: 20%;
+  grid-template-columns: repeat(5, 20%);
+  min-height: 136px;
+  grid-gap: 0px;
+}
+
+.u-section-2 .u-list-item-1 {
+  box-shadow: 5px 5px 20px 0 rgba(16,24,32,0.4);
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 30px 26px;
+}
+
+.u-section-2 .u-icon-1 {
+  height: 80px;
+  width: 80px;
+  background-image: none;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-list-item-2 {
+  box-shadow: 5px 5px 20px 0 rgba(16,24,32,0.4);
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 30px 26px;
+}
+
+.u-section-2 .u-icon-2 {
+  height: 80px;
+  width: 80px;
+  background-image: none;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-list-item-3 {
+  box-shadow: 5px 5px 20px 0 rgba(16,24,32,0.4);
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 30px 26px;
+}
+
+.u-section-2 .u-icon-3 {
+  height: 80px;
+  width: 80px;
+  background-image: none;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-list-item-4 {
+  box-shadow: 5px 5px 20px 0 rgba(16,24,32,0.4);
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px 30px 26px;
+}
+
+.u-section-2 .u-icon-4 {
+  height: 80px;
+  width: 80px;
+  background-image: none;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-list-item-5 {
+  box-shadow: 5px 5px 20px 0 rgba(16,24,32,0.4);
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 30px 30px 26px;
+}
+
+.u-section-2 .u-icon-5 {
+  height: 80px;
+  width: 80px;
+  background-image: none;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.125rem;
+  font-weight: 400;
+  margin: 68px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: 700;
+  margin: 20px auto 60px;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-list-1 {
+    margin-top: 122px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 112px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-list-1 {
+    margin-top: 54px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 150px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 47px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 984px;
+  }
+
+  .u-section-2 .u-list-1 {
+    margin-top: 0;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: 100%;
+    grid-template-columns: repeat(1, 100%);
+    min-height: 699px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding: 20px 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding: 20px 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding: 20px 10px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding: 20px 10px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding: 20px 10px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1rem;
+    margin-top: 20px;
+    margin-left: 26px;
+    margin-right: 26px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-bottom: 39px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-list-1 {
+    margin-top: 36px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 100%;
+    min-height: 455px;
+  }
+
+  .u-section-2 .u-list-item-1 {
+    --bottom-right-radius: 20px;
+  }
+
+  .u-section-2 .u-list-item-2 {
+    --bottom-right-radius: 20px;
+  }
+
+  .u-section-2 .u-list-item-3 {
+    --bottom-right-radius: 20px;
+  }
+
+  .u-section-2 .u-list-item-4 {
+    --bottom-right-radius: 20px;
+  }
+
+  .u-section-2 .u-list-item-5 {
+    --bottom-right-radius: 20px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.125rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}.icon-effect:hover {
+  filter: brightness(1.3);
+  transition: filter 0.3s ease;
+} 
